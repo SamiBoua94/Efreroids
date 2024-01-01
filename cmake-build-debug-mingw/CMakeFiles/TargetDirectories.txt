@@ -1,0 +1,3 @@
+C:/Users/Sambo/Downloads/cpp-lsi-group-1-main-projet/cpp-lsi-group-1-main-projet/projet/cmake-build-debug-mingw/CMakeFiles/SDLTEST.dir
+C:/Users/Sambo/Downloads/cpp-lsi-group-1-main-projet/cpp-lsi-group-1-main-projet/projet/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/Sambo/Downloads/cpp-lsi-group-1-main-projet/cpp-lsi-group-1-main-projet/projet/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
